@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\bin\Debug\BancoThink_M_J.exe.config
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\bin\Debug\BancoThink_M_J.exe
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\bin\Debug\BancoThink_M_J.pdb
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\obj\Debug\BancoThink_M_J.csprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\obj\Debug\BancoThink_M_J.Properties.Resources.resources
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\obj\Debug\BancoThink_M_J.csproj.GenerateResource.Cache
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\obj\Debug\BancoThink_M_J.exe
+C:\Users\developer\Desktop\Proyectos .net\BancoThink_M_J\BancoThink_M_J\obj\Debug\BancoThink_M_J.pdb
